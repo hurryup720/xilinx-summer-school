@@ -1,0 +1,309 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/c_2019/dds_test/DDS/DDS.sim/sim_1/behav/modelsim
+E5OPlycaAssZnIb9osAy+y0AIrrcI1U2cz6A8AJf5ibs=
+Z1 w1577240234
+Z2 DPx25 xbip_dsp48_multadd_v3_0_4 29 xbip_dsp48_multadd_v3_0_4_pkg 0 22 gB>m;?QYV>?eZeSkzAA;o0
+Z3 DPx17 xbip_utils_v3_0_8 21 xbip_utils_v3_0_8_pkg 0 22 KLOgN`Y4kN1gAi11:8?nF1
+Z4 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z5 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z6 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z9 dE:/c_2019/dds_test/DDS/DDS.sim/sim_1/behav/modelsim
+Z10 8../../../../DDS.ip_user_files/ipstatic/hdl/xbip_dsp48_multadd_v3_0_vh_rfs.vhd
+Z11 F../../../../DDS.ip_user_files/ipstatic/hdl/xbip_dsp48_multadd_v3_0_vh_rfs.vhd
+l0
+L575
+VO<D[:00gdZeZ63loF`OoD3
+!s100 nJ<jSG<]4ZkdTI^f@X[KS1
+Z12 OL;C;10.5;63
+!i8a 1277755680
+31
+Z13 !s110 1582802286
+!i10b 1
+Z14 !s108 1582802285.000000
+Z15 !s90 -64|-93|-work|xbip_dsp48_multadd_v3_0_4|../../../../DDS.ip_user_files/ipstatic/hdl/xbip_dsp48_multadd_v3_0_vh_rfs.vhd|
+Z16 !s107 ../../../../DDS.ip_user_files/ipstatic/hdl/xbip_dsp48_multadd_v3_0_vh_rfs.vhd|
+!i113 0
+Z17 o-93 -work xbip_dsp48_multadd_v3_0_4
+Z18 tExplicit 1 CvgOpt 0
+nbb1607c
+A9p/wCOuSOdSaG79lHeEg8A==
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+Z19 DEx4 work 22 xbip_dsp48_multadd_rtl 0 22 O<D[:00gdZeZ63loF`OoD3
+l660
+L608
+Z20 VM?>Be]@SAMlJWACAEEhT=3
+Z21 !s100 n^2`lA5YfLKfSTXQ4MH9[3
+R12
+!i8a 999097408
+31
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+Z22 n7b05a8
+EVj2OvtgbtATN6gglMXTNd3Dbv97STltrYzs121GgeHI=
+R1
+R5
+R2
+R3
+R4
+R7
+R8
+R9
+R10
+R11
+l0
+L853
+V7b[nRld2Y_B?K3_[MD3^X0
+!s100 ffH@XPl?AX<j7AeW;_iod0
+R12
+!i8a 7268592
+31
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+n1633e18
+AOTa9x1xssRmwgnzfO+ebvw==
+Z23 DEx25 xbip_dsp48_wrapper_v3_0_4 25 xbip_dsp48e2_wrapper_v3_0 0 22 a[6m49P_oW1:jb:W]mndL2
+DPx6 unisim 11 vcomponents 0 22 O:Gcdlc>Q3mIOQ_4M<kVC1
+Z24 DEx25 xbip_dsp48_wrapper_v3_0_4 25 xbip_dsp48e1_wrapper_v3_0 0 22 PKo2:nQI^NkMWO5z3CYEX3
+R5
+R2
+R3
+R4
+R7
+R8
+Z25 DEx4 work 24 xbip_dsp48_multadd_synth 0 22 7b[nRld2Y_B?K3_[MD3^X0
+l898
+L886
+Z26 VITSe;S75?oNAbGCClUKO;1
+Z27 !s100 FIV^nPd<Y2IEZ`oW8A0Ic1
+R12
+!i8a 1177763856
+31
+Z28 !s110 1582802287
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+R22
+ENMYWdJCXCzIO6VwqKsnWT00WT6lVMvpeacvcpFWQXW4=
+R1
+R3
+Z29 DPx25 xbip_dsp48_multadd_v3_0_4 34 xbip_dsp48_multadd_v3_0_4_viv_comp 0 22 oFWZe:A40LkIA11ji:DUd1
+R7
+R8
+R9
+R10
+R11
+l0
+L1289
+VOa9dk?n0a3A]WU6djkeYh2
+!s100 Fz10GomfUDEG@7Dm1z>^Y2
+R12
+!i8a 592625728
+31
+R28
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+n6069f34
+AA8NbXUNpLnM86kbeMig0OQ==
+R3
+R29
+R7
+R8
+Z30 DEx4 work 25 xbip_dsp48_multadd_v3_0_4 0 22 Oa9dk?n0a3A]WU6djkeYh2
+Z31 l1327
+Z32 L1322
+Z33 VNOX^W<EL85UiF_>f_RPF63
+Z34 !s100 L3hf>CLh[1d2;Lg4U7VUP1
+R12
+!i8a 210437408
+31
+R28
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+Z35 n7f03058
+PV0rwPu6yDfyxw/0Ws3DsBUWt6OCKqbTqGkeCHg032m8=
+R3
+R7
+R8
+R1
+R9
+R10
+R11
+l0
+L209
+VGL:;edP5_dE7gnOhd]7;A0
+!s100 i@bLF>i^:kabEhZF:c9C@1
+R12
+!i8a 318919760
+31
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+n4060db0
+P7RZV51hn0ZAbO9IRCDBs41UnM1XTODB8Zy8k0OF8X1g=
+R3
+R5
+R7
+R8
+R1
+R9
+R10
+R11
+l0
+L308
+VgB>m;?QYV>?eZeSkzAA;o0
+!s100 lBkOli]nW7BL:SZ1NFee>3
+R12
+!i8a 2007567984
+31
+b1
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+nf406187
+BEI0GOAtj2dYHIf2hKI5Kyw==
+Z36 DPx4 work 29 xbip_dsp48_multadd_v3_0_4_pkg 0 22 gB>m;?QYV>?eZeSkzAA;o0
+R3
+R5
+R7
+R8
+l0
+L403
+Z37 Vaad51Rcc@NOi6L@jBXgcl2
+Z38 !s100 b9_`bF1B83REZ:HPRT^U=0
+R12
+!i8a 2138099760
+31
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+Z39 nbody
+EkVJidQYxTLnF35hl6vL4jYfVcVhE/xgQiNjDQNlbReM=
+R1
+R5
+R2
+R3
+R7
+R8
+R9
+R10
+R11
+l0
+L1097
+VO2=[1BnT:;in2;Oj@nNem0
+!s100 hfUQ6zJ3PVz30]7UHHfhh3
+R12
+!i8a 1779335472
+31
+R28
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+nf406b96
+A9OfKKa3M+cBLJRM8xnRDXA==
+R5
+R2
+R3
+R7
+R8
+Z40 DEx4 work 29 xbip_dsp48_multadd_v3_0_4_viv 0 22 O2=[1BnT:;in2;Oj@nNem0
+Z41 l1157
+Z42 L1132
+Z43 Vm[nG?c6McQjE7zAPm^2zK2
+Z44 !s100 TQo?F8GMJkzo6@<OePae73
+R12
+!i8a 80968672
+31
+R28
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+R22
+PjS4blp+n8lQ5U7rrF2ETILfZVSJhhGowVq3iOYmMgytlX76uwtExiyd2mzxlfNLV
+R3
+R7
+R8
+R1
+R9
+R10
+R11
+l0
+L119
+VoFWZe:A40LkIA11ji:DUd1
+!s100 @>KG8aEXDbC3[G5mJ?hB]0
+R12
+!i8a 262205680
+31
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+n951a4f0

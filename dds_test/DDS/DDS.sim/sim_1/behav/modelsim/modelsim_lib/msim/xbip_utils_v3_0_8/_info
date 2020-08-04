@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/c_2019/dds_test/DDS/DDS.sim/sim_1/behav/modelsim
+Pwpf9/3/YJxRpRoIGx7KGx6KtMSIKIcTurJNEQFdpTWI=
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 w1577240234
+Z4 dE:/c_2019/dds_test/DDS/DDS.sim/sim_1/behav/modelsim
+Z5 8../../../../DDS.ip_user_files/ipstatic/hdl/xbip_utils_v3_0_vh_rfs.vhd
+Z6 F../../../../DDS.ip_user_files/ipstatic/hdl/xbip_utils_v3_0_vh_rfs.vhd
+l0
+L118
+VKLOgN`Y4kN1gAi11:8?nF1
+!s100 S;VfBjZkU9L8>8Pd]3O=o1
+Z7 OL;C;10.5;63
+!i8a 743208672
+31
+b1
+Z8 !s110 1582802270
+!i10b 1
+Z9 !s108 1582802269.000000
+Z10 !s90 -64|-93|-work|xbip_utils_v3_0_8|../../../../DDS.ip_user_files/ipstatic/hdl/xbip_utils_v3_0_vh_rfs.vhd|
+Z11 !s107 ../../../../DDS.ip_user_files/ipstatic/hdl/xbip_utils_v3_0_vh_rfs.vhd|
+!i113 0
+Z12 o-93 -work xbip_utils_v3_0_8
+Z13 tExplicit 1 CvgOpt 0
+n7de4c47
+BwOhvvJ8kDcseyYA/JSrdug==
+Z14 DPx4 work 21 xbip_utils_v3_0_8_pkg 0 22 KLOgN`Y4kN1gAi11:8?nF1
+R1
+R2
+l0
+L460
+Z15 Vfi2i6gh3zbWUcz`__MCfP1
+Z16 !s100 MM>QNC6f1^BL8EPTgT9c[2
+R7
+!i8a 93214496
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Z17 nbody
+PUjRLssbEl/0H5UMPvj8c4w==
+R3
+R4
+R5
+R6
+l0
+L3077
+VE1`g3UC>Uh8>=ZP7hAnT^0
+!s100 F03?mnAQcD2HF=Bm>7a0Z0
+R7
+!i8a 912527168
+31
+b1
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+na205600
+BxkUPus4zqc0NS23Sy1KsCg==
+Z18 DPx4 work 14 xcc_utils_v3_0 0 22 E1`g3UC>Uh8>=ZP7hAnT^0
+l0
+Z19 L3083
+Z20 V5NC5;F>F90KzE_29RHiXE3
+Z21 !s100 ]:gDUnVE7Ki[GEM?=P^OF1
+R7
+!i8a 221145664
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R17

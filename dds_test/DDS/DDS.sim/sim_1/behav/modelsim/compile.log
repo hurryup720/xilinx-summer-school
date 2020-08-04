@@ -1,0 +1,140 @@
+# do {dds_ip_tb_compile.do}
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/work".
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim".
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim/xbip_utils_v3_0_8".
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim/axi_utils_v2_0_4".
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim/xbip_pipe_v3_0_4".
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim/xbip_bram18k_v3_0_4".
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim/mult_gen_v12_0_13".
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim/xbip_dsp48_wrapper_v3_0_4".
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim/xbip_dsp48_addsub_v3_0_4".
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim/xbip_dsp48_multadd_v3_0_4".
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim/dds_compiler_v6_0_15".
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim/xil_defaultlib".
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap xbip_utils_v3_0_8 modelsim_lib/msim/xbip_utils_v3_0_8 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap axi_utils_v2_0_4 modelsim_lib/msim/axi_utils_v2_0_4 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap xbip_pipe_v3_0_4 modelsim_lib/msim/xbip_pipe_v3_0_4 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap xbip_bram18k_v3_0_4 modelsim_lib/msim/xbip_bram18k_v3_0_4 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap mult_gen_v12_0_13 modelsim_lib/msim/mult_gen_v12_0_13 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap xbip_dsp48_wrapper_v3_0_4 modelsim_lib/msim/xbip_dsp48_wrapper_v3_0_4 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap xbip_dsp48_addsub_v3_0_4 modelsim_lib/msim/xbip_dsp48_addsub_v3_0_4 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap xbip_dsp48_multadd_v3_0_4 modelsim_lib/msim/xbip_dsp48_multadd_v3_0_4 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap dds_compiler_v6_0_15 modelsim_lib/msim/dds_compiler_v6_0_15 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap xil_defaultlib modelsim_lib/msim/xil_defaultlib 
+# Modifying modelsim.ini
+# ** Warning: (vcom-159) Mode option -64 is not supported in this context and will be ignored.
+# Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 19:17:49 on Feb 27,2020
+# vcom -64 -93 -work xbip_utils_v3_0_8 ../../../../DDS.ip_user_files/ipstatic/hdl/xbip_utils_v3_0_vh_rfs.vhd 
+# -- Loading package STANDARD
+# End time: 19:17:50 on Feb 27,2020, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1
+# ** Warning: (vcom-159) Mode option -64 is not supported in this context and will be ignored.
+# Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 19:17:50 on Feb 27,2020
+# vcom -64 -93 -work axi_utils_v2_0_4 ../../../../DDS.ip_user_files/ipstatic/hdl/axi_utils_v2_0_vh_rfs.vhd 
+# -- Loading package STANDARD
+# End time: 19:17:52 on Feb 27,2020, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 1
+# ** Warning: (vcom-159) Mode option -64 is not supported in this context and will be ignored.
+# Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 19:17:52 on Feb 27,2020
+# vcom -64 -93 -work xbip_pipe_v3_0_4 ../../../../DDS.ip_user_files/ipstatic/hdl/xbip_pipe_v3_0_vh_rfs.vhd 
+# -- Loading package STANDARD
+# End time: 19:17:54 on Feb 27,2020, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 1
+# ** Warning: (vcom-159) Mode option -64 is not supported in this context and will be ignored.
+# Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 19:17:54 on Feb 27,2020
+# vcom -64 -93 -work xbip_bram18k_v3_0_4 ../../../../DDS.ip_user_files/ipstatic/hdl/xbip_bram18k_v3_0_vh_rfs.vhd 
+# -- Loading package STANDARD
+# End time: 19:17:57 on Feb 27,2020, Elapsed time: 0:00:03
+# Errors: 0, Warnings: 1
+# ** Warning: (vcom-159) Mode option -64 is not supported in this context and will be ignored.
+# Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 19:17:57 on Feb 27,2020
+# vcom -64 -93 -work mult_gen_v12_0_13 ../../../../DDS.ip_user_files/ipstatic/hdl/mult_gen_v12_0_vh_rfs.vhd 
+# -- Loading package STANDARD
+# End time: 19:18:00 on Feb 27,2020, Elapsed time: 0:00:03
+# Errors: 0, Warnings: 1
+# ** Warning: (vcom-159) Mode option -64 is not supported in this context and will be ignored.
+# Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 19:18:00 on Feb 27,2020
+# vcom -64 -93 -work xbip_dsp48_wrapper_v3_0_4 ../../../../DDS.ip_user_files/ipstatic/hdl/xbip_dsp48_wrapper_v3_0_vh_rfs.vhd 
+# -- Loading package STANDARD
+# End time: 19:18:03 on Feb 27,2020, Elapsed time: 0:00:03
+# Errors: 0, Warnings: 1
+# ** Warning: (vcom-159) Mode option -64 is not supported in this context and will be ignored.
+# Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 19:18:03 on Feb 27,2020
+# vcom -64 -93 -work xbip_dsp48_addsub_v3_0_4 ../../../../DDS.ip_user_files/ipstatic/hdl/xbip_dsp48_addsub_v3_0_vh_rfs.vhd 
+# -- Loading package STANDARD
+# End time: 19:18:04 on Feb 27,2020, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1
+# ** Warning: (vcom-159) Mode option -64 is not supported in this context and will be ignored.
+# Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 19:18:05 on Feb 27,2020
+# vcom -64 -93 -work xbip_dsp48_multadd_v3_0_4 ../../../../DDS.ip_user_files/ipstatic/hdl/xbip_dsp48_multadd_v3_0_vh_rfs.vhd 
+# -- Loading package STANDARD
+# End time: 19:18:07 on Feb 27,2020, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 1
+# ** Warning: (vcom-159) Mode option -64 is not supported in this context and will be ignored.
+# Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 19:18:07 on Feb 27,2020
+# vcom -64 -93 -work dds_compiler_v6_0_15 ../../../../DDS.ip_user_files/ipstatic/hdl/dds_compiler_v6_0_vh_rfs.vhd 
+# -- Loading package STANDARD
+# End time: 19:18:11 on Feb 27,2020, Elapsed time: 0:00:04
+# Errors: 0, Warnings: 1
+# ** Warning: (vcom-159) Mode option -64 is not supported in this context and will be ignored.
+# Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 19:18:11 on Feb 27,2020
+# vcom -64 -93 -work xil_defaultlib ../../../../DDS.srcs/sources_1/ip/dds_compiler_1/sim/dds_compiler_1.vhd ../../../../DDS.srcs/sources_1/ip/dds_compiler_0/sim/dds_compiler_0.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity dds_compiler_1
+# -- Compiling architecture dds_compiler_1_arch of dds_compiler_1
+# -- Compiling entity dds_compiler_0
+# -- Compiling architecture dds_compiler_0_arch of dds_compiler_0
+# End time: 19:18:11 on Feb 27,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# ** Warning: (vlog-159) Mode option -64 is not supported in this context and will be ignored.
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 19:18:12 on Feb 27,2020
+# vlog -64 -incr -work xil_defaultlib ../../../../DDS.srcs/sources_1/new/dds_test.v ../../../../DDS.srcs/sim_1/new/dds_ip_tb.v 
+# -- Compiling module dds_test
+# -- Skipping module dds_ip_tb
+# 
+# Top level modules:
+# 	dds_ip_tb
+# End time: 19:18:12 on Feb 27,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 19:18:12 on Feb 27,2020
+# vlog -work xil_defaultlib glbl.v 
+# -- Compiling module glbl
+# 
+# Top level modules:
+# 	glbl
+# End time: 19:18:12 on Feb 27,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

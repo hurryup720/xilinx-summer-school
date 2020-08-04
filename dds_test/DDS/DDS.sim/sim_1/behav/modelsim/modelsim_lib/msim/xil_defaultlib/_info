@@ -1,0 +1,170 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/c_2019/dds_test/DDS/DDS.sim/sim_1/behav/modelsim
+Edds_compiler_0
+Z1 w1577240213
+Z2 DPx20 dds_compiler_v6_0_15 29 dds_compiler_v6_0_15_viv_comp 0 22 :5CNf6EW;bmCR84mHlaQG3
+Z3 DPx17 xbip_utils_v3_0_8 14 xcc_utils_v3_0 0 22 E1`g3UC>Uh8>=ZP7hAnT^0
+Z4 DPx17 xbip_utils_v3_0_8 21 xbip_utils_v3_0_8_pkg 0 22 KLOgN`Y4kN1gAi11:8?nF1
+Z5 DEx20 dds_compiler_v6_0_15 20 dds_compiler_v6_0_15 0 22 hk;4OVGzcCEikfPRA7db41
+Z6 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z9 dE:/c_2019/dds_test/DDS/DDS.sim/sim_1/behav/modelsim
+Z10 8../../../../DDS.srcs/sources_1/ip/dds_compiler_0/sim/dds_compiler_0.vhd
+Z11 F../../../../DDS.srcs/sources_1/ip/dds_compiler_0/sim/dds_compiler_0.vhd
+l0
+L59
+Vh7:]1<W6kSMRY<cPQ<z=L3
+!s100 mRJl?H6cbX01PS3Cb9mMn3
+Z12 OL;C;10.5;63
+31
+Z13 !s110 1582802291
+!i10b 1
+Z14 !s108 1582802291.000000
+Z15 !s90 -64|-93|-work|xil_defaultlib|../../../../DDS.srcs/sources_1/ip/dds_compiler_1/sim/dds_compiler_1.vhd|../../../../DDS.srcs/sources_1/ip/dds_compiler_0/sim/dds_compiler_0.vhd|
+Z16 !s107 ../../../../DDS.srcs/sources_1/ip/dds_compiler_0/sim/dds_compiler_0.vhd|../../../../DDS.srcs/sources_1/ip/dds_compiler_1/sim/dds_compiler_1.vhd|
+!i113 0
+Z17 o-93 -work xil_defaultlib
+Z18 tExplicit 1 CvgOpt 0
+Adds_compiler_0_arch
+R2
+R3
+R4
+R6
+R7
+R8
+DEx4 work 14 dds_compiler_0 0 22 h7:]1<W6kSMRY<cPQ<z=L3
+l165
+L69
+VDlXzHL18;TkS3k1kS?5bY1
+!s100 _SMNPW`j<TG5MB]kAV7OE1
+R12
+31
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+Edds_compiler_1
+Z19 w1577259163
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+Z20 8../../../../DDS.srcs/sources_1/ip/dds_compiler_1/sim/dds_compiler_1.vhd
+Z21 F../../../../DDS.srcs/sources_1/ip/dds_compiler_1/sim/dds_compiler_1.vhd
+l0
+L59
+V=QCIdPWDd05lJKA_ED[?M1
+!s100 HOgU^HiUQ0mjf>0ok6;hn2
+R12
+31
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+Adds_compiler_1_arch
+R2
+R3
+R4
+R6
+R7
+R8
+DEx4 work 14 dds_compiler_1 0 22 =QCIdPWDd05lJKA_ED[?M1
+l186
+L78
+V[Q_LZmoC2R6HT^]o^Q15h0
+!s100 MHjK:LVf9SlK57?Q9z17=3
+R12
+31
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+vdds_ip_tb
+!s10a 1577260283
+!s110 1577260306
+!i10b 1
+!s100 U:d25a?g6_HIVm>Ug8JKC1
+I3dR0OAYAOi3I@5;]DSh:C2
+Z22 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1577260283
+8../../../../DDS.srcs/sim_1/new/dds_ip_tb.v
+F../../../../DDS.srcs/sim_1/new/dds_ip_tb.v
+Z23 L0 23
+Z24 OL;L;10.5;63
+r1
+!s85 0
+31
+!s108 1577260305.000000
+Z25 !s107 ../../../../DDS.srcs/sim_1/new/dds_ip_tb.v|../../../../DDS.srcs/sources_1/new/dds_test.v|
+Z26 !s90 -64|-incr|-work|xil_defaultlib|../../../../DDS.srcs/sources_1/new/dds_test.v|../../../../DDS.srcs/sim_1/new/dds_ip_tb.v|
+!i113 0
+Z27 o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z28 tCvgOpt 0
+vdds_test
+Z29 !s110 1582802292
+!i10b 1
+!s100 9kP[XXT_2ohaG;Vkl5;BH2
+I9YBJnKBNVNB=o;5Ra_8GD2
+R22
+R9
+w1579259893
+8../../../../DDS.srcs/sources_1/new/dds_test.v
+F../../../../DDS.srcs/sources_1/new/dds_test.v
+R23
+R24
+r1
+!s85 0
+31
+Z30 !s108 1582802292.000000
+R25
+R26
+!i113 0
+R27
+R28
+vglbl
+R29
+!i10b 1
+!s100 JWZ^meD<P7inSF0<1SiO32
+IAl?5;D^:bf?I5A^M>WzmU1
+R22
+R9
+w1513215259
+8glbl.v
+Fglbl.v
+L0 6
+R24
+r1
+!s85 0
+31
+R30
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+!i113 0
+R27
+R28

@@ -1,0 +1,323 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/c_2019/dds_test/DDS/DDS.sim/sim_1/behav/modelsim
+E6XpNFmUWg6zBanLU8RuZ67p73WFjUaeByM8Mzy3JsH0=
+Z1 w1577240234
+Z2 DPx6 unisim 11 vcomponents 0 22 O:Gcdlc>Q3mIOQ_4M<kVC1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dE:/c_2019/dds_test/DDS/DDS.sim/sim_1/behav/modelsim
+Z6 8../../../../DDS.ip_user_files/ipstatic/hdl/xbip_dsp48_wrapper_v3_0_vh_rfs.vhd
+Z7 F../../../../DDS.ip_user_files/ipstatic/hdl/xbip_dsp48_wrapper_v3_0_vh_rfs.vhd
+l0
+L2506
+VR2[>_<8]kf9gZk=<dhaNY3
+!s100 ?N@ioNhHSIBX4mR]]^J^c0
+Z8 OL;C;10.5;63
+!i8a 1153051232
+31
+Z9 !s110 1582802283
+!i10b 1
+Z10 !s108 1582802280.000000
+Z11 !s90 -64|-93|-work|xbip_dsp48_wrapper_v3_0_4|../../../../DDS.ip_user_files/ipstatic/hdl/xbip_dsp48_wrapper_v3_0_vh_rfs.vhd|
+Z12 !s107 ../../../../DDS.ip_user_files/ipstatic/hdl/xbip_dsp48_wrapper_v3_0_vh_rfs.vhd|
+!i113 0
+Z13 o-93 -work xbip_dsp48_wrapper_v3_0_4
+Z14 tExplicit 1 CvgOpt 0
+nab98b44
+Ax3V3DniUq4xBnTPTeyR4ZA==
+R2
+R3
+R4
+Z15 DEx4 work 25 xbip_dsp48_wrapper_v3_0_4 0 22 R2[>_<8]kf9gZk=<dhaNY3
+Z16 l2683
+Z17 L2560
+Z18 VBQ[C>XDkDPYoz7>n?7e[W0
+Z19 !s100 ;SahUk]aMb4@5:4`J]dKz3
+R8
+!i8a 2032160992
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Z20 n7b05a8
+Pyzd9kp3wPlFZMOFFiJe+wyVNAhM4D9Co6S3aQAEemno=
+R3
+R4
+R1
+R5
+R6
+R7
+l0
+L123
+VRcLGX;IchNOcj[NgYCckW3
+!s100 V:WafR7[o0I0F?:MWabV62
+R8
+!i8a 1521156720
+31
+Z21 !s110 1582802282
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+nb44e097
+BL3oFoiKvIxgJ4BlSZzBo2w==
+Z22 DPx4 work 29 xbip_dsp48_wrapper_v3_0_4_pkg 0 22 RcLGX;IchNOcj[NgYCckW3
+R3
+R4
+l0
+L433
+Z23 VN]]6MCRjP^NSNg9`<O:gX0
+Z24 !s100 7@IcbJSRn9SEQ2KEQ3=TY0
+R8
+!i8a 392307136
+31
+R21
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Z25 nbody
+EtAdg8p7dZGfC69GCEFUK3G8X0PRW4gE4LnAhEvIr5Bw=
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L822
+VLWJS1[;mOYITQoaW]N=LX1
+!s100 Z<T<AFM<S7fj;4B;S0Y`31
+R8
+!i8a 171032896
+31
+R21
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+ne499ff0
+AwrSlBlGcuVlVX+1xn35Jtw==
+R2
+R3
+R4
+Z26 DEx4 work 25 xbip_dsp48a1_wrapper_v3_0 0 22 LWJS1[;mOYITQoaW]N=LX1
+l989
+L879
+Z27 VHIJRYLzN?9UmcTZ;Ea02H3
+Z28 !s100 R@RIU?mEF2UIUSH7X9NgG2
+R8
+!i8a 2123365600
+31
+R21
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R20
+ERUJAcySYVQCDgWsIfVn9nXevE7H1ACN93VlnmNje9jo=
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L500
+VLQ2KYMIfa:[_bW=_;eK_Z2
+!s100 ;klJDonb79VHnbI6I2?QC1
+R8
+!i8a 1979772096
+31
+R21
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+n6e46800
+AaNheuydE1RlyZQnNRdu9gQ==
+R2
+R3
+R4
+Z29 DEx4 work 24 xbip_dsp48a_wrapper_v3_0 0 22 LQ2KYMIfa:[_bW=_;eK_Z2
+l660
+L555
+Z30 V9Wk6E[doTfGfe^QkzMXD_1
+Z31 !s100 MRFKiBV0coQmg0cchB16`1
+R8
+!i8a 1884105504
+31
+R21
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R20
+EGNVl6IhAP/yLx+qs5ks7f8Rk2dfxpU5pcr5S5n5WmE8=
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L1582
+VPKo2:nQI^NkMWO5z3CYEX3
+!s100 ]DgK4DGUfVHzniVe<[oPJ0
+R8
+!i8a 276836928
+31
+R21
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+ne4993f0
+AspjcG0mBS2SdG4OJ8mNAog==
+R2
+R3
+R4
+Z32 DEx4 work 25 xbip_dsp48e1_wrapper_v3_0 0 22 PKo2:nQI^NkMWO5z3CYEX3
+Z33 l1833
+Z34 L1660
+Z35 VEGU7QND=^J4zN>UdMb^<:3
+Z36 !s100 OFhN=e6^IR?51Yi94e7:z1
+R8
+!i8a 1571222864
+31
+R21
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R20
+EjrxMjAw5mw1Ea1w5Sm+MxTel56HWWYo8lUkEtx3gFWA=
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L2043
+Va[6m49P_oW1:jb:W]mndL2
+!s100 <[>Xe9G=bISHWI=gg2]k12
+R8
+!i8a 1318667088
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+ne499380
+AOHux+exRXiB+Os9ujR0gVg==
+R2
+R3
+R4
+Z37 DEx4 work 25 xbip_dsp48e2_wrapper_v3_0 0 22 a[6m49P_oW1:jb:W]mndL2
+Z38 l2286
+Z39 L2125
+Z40 VXaN3VncK3T7gPV<Gl78i:3
+Z41 !s100 Ncnldg3kAe;QhoK8`kZ>62
+R8
+!i8a 274677552
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R20
+Ejkbc4GaQZAk2hKhsN+LuxXp2dfk4ij1Jgka6phTGz1w=
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L1155
+VhBFSHkgmHV2NHh`Xl3XI:1
+!s100 9WKYCUaFBeam5Tfm_:@K23
+R8
+!i8a 2056710896
+31
+R21
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+n6e46740
+AemeYODFoy/HrT4z7Fi63GQ==
+R2
+R3
+R4
+Z42 DEx4 work 24 xbip_dsp48e_wrapper_v3_0 0 22 hBFSHkgmHV2NHh`Xl3XI:1
+Z43 l1382
+Z44 L1224
+Z45 Vz;FKmTD4bzF@iXhC:V[;90
+Z46 !s100 eEVeLigZlD`_B=2CASgV_2
+R8
+!i8a 1502953872
+31
+R21
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R20

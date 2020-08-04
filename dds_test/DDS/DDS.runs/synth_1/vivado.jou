@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Dec 25 18:41:04 2019
+# Process ID: 4000
+# Current directory: F:/c_2019/dds_test/DDS/DDS.runs/synth_1
+# Command line: vivado.exe -log dds_test.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source dds_test.tcl
+# Log file: F:/c_2019/dds_test/DDS/DDS.runs/synth_1/dds_test.vds
+# Journal file: F:/c_2019/dds_test/DDS/DDS.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source dds_test.tcl -notrace
